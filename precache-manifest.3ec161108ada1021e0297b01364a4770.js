@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9afdbb456d8f7aba2fa4816ebcae754c",
+    "revision": "37e0f92dd247150b3e574f37e93787ed",
     "url": "/daily-pokemon/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daily-pokemon/static/js/2.ec24c1fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2bcbcdf26810186f625",
-    "url": "/daily-pokemon/static/js/main.e74aca10.chunk.js"
+    "revision": "d821caf9b6842698cd5f",
+    "url": "/daily-pokemon/static/js/main.36e33648.chunk.js"
   },
   {
     "revision": "246f6a0c83da999dabd9",
